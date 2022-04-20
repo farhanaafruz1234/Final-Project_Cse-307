@@ -114,21 +114,21 @@ else
       <div class="carousel-item active">
         <img src="../Images/banner2.jpg" class="d-block w-100" alt="Banner">
         <div class="carousel-caption d-none d-md-block">
-          <h1>DuSai Resort & Spa</h1>
+          <h1>Neel Digante Resort</h1>
           <p>The most exotic resort in Bangladesh</p>
         </div>
       </div>
       <div class="carousel-item">
         <img src="../Images/banner3.jpg" class="d-block w-100" alt="Banner">
         <div class="carousel-caption d-none d-md-block">
-          <h1>DuSai Resort & Spa</h1>
+          <h1>Neel Digante Resort</h1>
           <p>The most exotic resort in Bangladesh</p>
         </div>
       </div>
       <div class="carousel-item">
         <img src="../Images/banner4.jpg" class="d-block w-100" alt="Banner">
         <div class="carousel-caption d-none d-md-block">
-          <h1>DuSai Resort & Spa</h1>
+          <h1>Neel Digante Resort</h1>
           <p>The most exotic resort in Bangladesh</p>
         </div>
       </div>
@@ -635,7 +635,7 @@ else
   
 
   <footer id="footer">
-    <p>Niteshwar, Giashnagar, Moulvi Bazar, Bangladesh. Phone: +880 86164100, Hotline: +880 1617005511</p>
+    <p>Konapara, Saint Martin Bangladesh. Phone: +880 9876445, Hotline: +880 1796280682</p>
   </footer>
 
 
