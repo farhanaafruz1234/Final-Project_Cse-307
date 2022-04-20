@@ -99,6 +99,61 @@
       <span class="visually-hidden">Next</span>
     </button>
   </div>
+   <!-- Container -->
+
+   <div class="container-fluid first">
+    <div class="row f">
+      <div class="col-md-6">
+        <h3>
+          Neel Digante Resort is the first world class 5 star standard boutique Villa Resort & Spa at Saintmartin.
+        </h3>
+        <hr>
+        <p>
+          Neel Digante Resort is one of the most exquisite beach resorts on the St. Martin’s Island offering guests a calming respite from the city. You are cordially invited to relax and rejuvenate with sea’s lush greenery, glittering sands and coral rocks just a few steps ahead of the resort. It is in the western part of the island where fascinating sights and sounds abound within close proximity to Neel Digante. 
+        </p>
+        <a class="learn" href="https://www.dusairesorts.com/why-us" target="_blank" rel="noopener noreferrer">Learn more</a>
+      </div>
+      <div class="col-md-6">
+        <div class="card mb-3" style="max-width: 570px;">
+          <div class="row g-0">
+            <div class="col-md-4">
+              <img src="./Images/award.jpg" class="img-fluid rounded-start award" alt="...">
+            </div>
+            <div class="col-md-6">
+              <div class="card-body">
+                <h5 class="card-title">Awards & Accolades</h5>
+                <h6 class="card-text">American Architecture Prize</h6>
+                <p class="card-text">World Luxury Hotel Awards, one of the two international hotel categorisation body, has awarded on 2nd December 2017.</p>
+                <a class="learn" href="https://www.neeldiganteresorts.com/awards-accolades" target="_blank" rel="noopener noreferrer">Learn more</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-6 i1">
+        <a href="./PHP/rooms.php">
+          <div class="i3">
+            <h2 class="rooms">Rooms & Suites</h2>
+          </div>
+        </a>
+      </div>
+      <div class="col-md-6 i2">
+        <a href="./PHP/dine.php">
+          <div class="i3">
+            <h2 class="rooms">Dine</h2>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <footer id="footer">
+    <p>Konapara, Saint Martin Bangladesh. Phone: +880 9876445, Hotline: +880 1796280682</p>
+  </footer>
+
+
  
 </body>
 
