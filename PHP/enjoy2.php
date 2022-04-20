@@ -130,7 +130,7 @@
 <!-- Footer -->
 
   <footer id="footer">
-    <p>Niteshwar, Giashnagar, Moulvi Bazar, Bangladesh. Phone: +880 86164100, Hotline: +880 1617005511</p>
+    <p>Konapara, Saint Martin Bangladesh. Phone: +880 9876445, Hotline: +880 179628068</p>
   </footer>
 
     
