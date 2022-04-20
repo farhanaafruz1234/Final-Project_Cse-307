@@ -111,7 +111,7 @@
         <p>
           Neel Digante Resort is one of the most exquisite beach resorts on the St. Martin’s Island offering guests a calming respite from the city. You are cordially invited to relax and rejuvenate with sea’s lush greenery, glittering sands and coral rocks just a few steps ahead of the resort. It is in the western part of the island where fascinating sights and sounds abound within close proximity to Neel Digante. 
         </p>
-        <a class="learn" href="https://www.dusairesorts.com/why-us" target="_blank" rel="noopener noreferrer">Learn more</a>
+        <a class="learn" href="https://www.neeldiganteresort.com//why-us" target="_blank" rel="noopener noreferrer">Learn more</a>
       </div>
       <div class="col-md-6">
         <div class="card mb-3" style="max-width: 570px;">
