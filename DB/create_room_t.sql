@@ -3,7 +3,7 @@ CREATE TABLE room_t (
 	name VARCHAR(32) NOT NULL,
 	price DOUBLE NOT NULL,
 	mail_id VARCHAR(32),
-	CONSTRAINTS room_pk PRIMARY KEY (id),
-	CONSTRAINTS room_fk FOREIGN KEY
+	CONSTRAINT room_PK PRIMARY KEY (id),
+	CONSTRAINT room_FK FOREIGN KEY
 	(mail_id) REFERENCES customer_t(mail_id)
 );

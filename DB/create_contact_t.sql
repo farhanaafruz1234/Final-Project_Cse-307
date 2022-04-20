@@ -3,7 +3,7 @@ CREATE TABLE contact_t (
 	name VARCHAR(32) NOT NULL,
 	message VARCHAR(100) NOT NULL,
 	mail_id VARCHAR(32) NOT NULL,
-	CONSTRAINTS contact_pk PRIMARY KEY (id),
-	CONSTRAINTS contact_fk FOREIGN KEY
+	CONSTRAINT contact_PK PRIMARY KEY (id),
+	CONSTRAINT contact_FK FOREIGN KEY
 	(mail_id) REFERENCES customer_t(mail_id)
 );
