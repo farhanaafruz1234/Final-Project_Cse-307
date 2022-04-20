@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+  padding-top: 20px;
+}
+.container {
+  margin-top: 30px;
+}
+
+body {
+  background-color: rgb(43, 182, 201);
+}
+
+.nav1 {
+  margin-left: 70px;
+}
+
+.nav2 {
+  margin-left: 50px;
+}
+
+.nav3 {
+  margin-right: 70px;
+}
